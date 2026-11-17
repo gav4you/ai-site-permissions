@@ -1,0 +1,16 @@
+{
+  "name": "ai-site-permissions",
+  "owner": { "name": "gav4you", "url": "https://github.com/gav4you" },
+  "metadata": {
+    "description": "Allow all browser site permissions for AI chat sites across every Chromium profile."
+  },
+  "plugins": [
+    {
+      "name": "ai-site-permissions",
+      "source": "./",
+      "description": "Set every site permission to Allow for Claude, ChatGPT, Gemini (or any site) in every profile of Chrome, Edge, Brave, Vivaldi and Chromium.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
