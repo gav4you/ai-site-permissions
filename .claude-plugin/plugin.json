@@ -6,5 +6,6 @@
   "homepage": "https://github.com/gav4you/ai-site-permissions",
   "repository": "https://github.com/gav4you/ai-site-permissions",
   "license": "MIT",
+  "icon": ".claude-plugin/icon.png",
   "keywords": ["chrome", "browser", "site-settings", "permissions", "claude", "chatgpt", "gemini"]
 }
